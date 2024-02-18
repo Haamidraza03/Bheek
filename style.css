@@ -10,3 +10,8 @@ body{
   background-color: rgb(19, 2, 34);
 }
 
+@media(max-width:425px){
+  p{
+    text-align: justify !important;
+  }
+}
