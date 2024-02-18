@@ -10,6 +10,10 @@ body{
   background-color: rgb(19, 2, 34);
 }
 
+button:hover{
+  font-weight: 500;
+}
+
 @media(max-width:425px){
   p{
     text-align: justify !important;
